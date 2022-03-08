@@ -1,7 +1,7 @@
 import './App.css';
 import React, { useState } from 'react';
 import OutPage from './components/OutPage';
-import TodoPage from './components/TodoPage';
+import TodoPage from './components/Todo/TodoPage';
 
 function App() {
 
